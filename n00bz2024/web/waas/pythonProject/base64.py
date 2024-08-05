@@ -1,0 +1,1 @@
+import subprocess; flag = subprocess.run(["cat", "flag.txt"], capture_output=True); print(flag.stdout.strip()); b64decode = lambda: 0

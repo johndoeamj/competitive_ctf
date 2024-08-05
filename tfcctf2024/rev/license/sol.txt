@@ -1,0 +1,10 @@
+
+
+first str
+
+Xsl3BDxP
+
+
+second str
+
+DEFINED	00104020	s_mzXaPLzR_00104020	ds "mzXaPLzR"	"mzXaPLzR"	string	9	false
